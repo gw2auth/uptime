@@ -7,6 +7,10 @@ sites:
     url: https://gw2auth.com
   - name: Discovery Endpoint
     url: https://gw2auth.com/.well-known/oauth-authorization-server
+  - name: Token Refresh
+    url: $CANARY_URL
+    headers:
+      - "Authorization: Bearer $CANARY_API_KEY"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
