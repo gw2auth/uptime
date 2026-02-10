@@ -4,9 +4,9 @@
     "url": "https://gw2auth.com",
     "icon": "https://icons.duckduckgo.com/ip3/gw2auth.com.ico",
     "slug": "gw-2-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 193,
     "timeMonth": 303,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-10": 0
+    }
   },
   {
     "name": "Discovery Endpoint",
     "url": "https://gw2auth.com/.well-known/oauth-authorization-server",
     "icon": "https://icons.duckduckgo.com/ip3/gw2auth.com.ico",
     "slug": "discovery-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 151,
     "timeYear": 219,
     "dailyMinutesDown": {
+      "2026-02-10": 0,
       "2025-10-14": 17
     }
   },
