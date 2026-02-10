@@ -1,7 +1,7 @@
 url: https://gw2auth.com/.well-known/oauth-authorization-server
-status: up
-code: 200
-responseTime: 134
-lastUpdated: 2026-02-09T23:44:27.765Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-02-10T20:27:12.840Z
 startTime: 2024-11-11T00:42:05.139Z
 generator: Upptime <https://github.com/upptime/upptime>
